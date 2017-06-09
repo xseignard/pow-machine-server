@@ -13,7 +13,4 @@
 		},
 		false
 	);
-	if (!('ondevicemotion' in window)) {
-		alert('Not Supported');
-	}
 })();
